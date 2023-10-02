@@ -1,0 +1,169 @@
+Annee,Quarter,Date,modele,unites_vendues
+2022,1,2022-03-31,modele,BMW_model
+2022,2,2022-06-30,modele,BMW_model
+2022,3,2022-09-30,modele,BMW_model
+2022,4,2022-12-31,modele,BMW_model
+2021,1,2021-03-31,modele,BMW_model
+2021,2,2021-06-30,modele,BMW_model
+2021,3,2021-09-30,modele,BMW_model
+2021,4,2021-12-31,modele,BMW_model
+2020,1,2020-03-31,modele,BMW_model
+2020,2,2020-06-30,modele,BMW_model
+2020,3,2020-09-30,modele,BMW_model
+2020,4,2020-12-31,modele,BMW_model
+2019,1,2019-03-31,modele,BMW_model
+2019,2,2019-06-30,modele,BMW_model
+2019,3,2019-09-30,modele,BMW_model
+2019,4,2019-12-31,modele,BMW_model
+2018,1,2018-03-31,modele,BMW_model
+2018,2,2018-06-30,modele,BMW_model
+2018,3,2018-09-30,modele,BMW_model
+2018,4,2018-12-31,modele,BMW_model
+2017,1,2017-03-31,modele,BMW_model
+2017,2,2017-06-30,modele,BMW_model
+2017,3,2017-09-30,modele,BMW_model
+2017,4,2017-12-31,modele,BMW_model
+2016,1,2016-03-31,modele,BMW_model
+2016,2,2016-06-30,modele,BMW_model
+2016,3,2016-09-30,modele,BMW_model
+2016,4,2016-12-31,modele,BMW_model
+2022,1,2022-03-31,modele,MINI
+2022,2,2022-06-30,modele,MINI
+2022,3,2022-09-30,modele,MINI
+2022,4,2022-12-31,modele,MINI
+2021,1,2021-03-31,modele,MINI
+2021,2,2021-06-30,modele,MINI
+2021,3,2021-09-30,modele,MINI
+2021,4,2021-12-31,modele,MINI
+2020,1,2020-03-31,modele,MINI
+2020,2,2020-06-30,modele,MINI
+2020,3,2020-09-30,modele,MINI
+2020,4,2020-12-31,modele,MINI
+2019,1,2019-03-31,modele,MINI
+2019,2,2019-06-30,modele,MINI
+2019,3,2019-09-30,modele,MINI
+2019,4,2019-12-31,modele,MINI
+2018,1,2018-03-31,modele,MINI
+2018,2,2018-06-30,modele,MINI
+2018,3,2018-09-30,modele,MINI
+2018,4,2018-12-31,modele,MINI
+2017,1,2017-03-31,modele,MINI
+2017,2,2017-06-30,modele,MINI
+2017,3,2017-09-30,modele,MINI
+2017,4,2017-12-31,modele,MINI
+2016,1,2016-03-31,modele,MINI
+2016,2,2016-06-30,modele,MINI
+2016,3,2016-09-30,modele,MINI
+2016,4,2016-12-31,modele,MINI
+2022,1,2022-03-31,modele,Rolls-Royce
+2022,2,2022-06-30,modele,Rolls-Royce
+2022,3,2022-09-30,modele,Rolls-Royce
+2022,4,2022-12-31,modele,Rolls-Royce
+2021,1,2021-03-31,modele,Rolls-Royce
+2021,2,2021-06-30,modele,Rolls-Royce
+2021,3,2021-09-30,modele,Rolls-Royce
+2021,4,2021-12-31,modele,Rolls-Royce
+2020,1,2020-03-31,modele,Rolls-Royce
+2020,2,2020-06-30,modele,Rolls-Royce
+2020,3,2020-09-30,modele,Rolls-Royce
+2020,4,2020-12-31,modele,Rolls-Royce
+2019,1,2019-03-31,modele,Rolls-Royce
+2019,2,2019-06-30,modele,Rolls-Royce
+2019,3,2019-09-30,modele,Rolls-Royce
+2019,4,2019-12-31,modele,Rolls-Royce
+2018,1,2018-03-31,modele,Rolls-Royce
+2018,2,2018-06-30,modele,Rolls-Royce
+2018,3,2018-09-30,modele,Rolls-Royce
+2018,4,2018-12-31,modele,Rolls-Royce
+2017,1,2017-03-31,modele,Rolls-Royce
+2017,2,2017-06-30,modele,Rolls-Royce
+2017,3,2017-09-30,modele,Rolls-Royce
+2017,4,2017-12-31,modele,Rolls-Royce
+2016,1,2016-03-31,modele,Rolls-Royce
+2016,2,2016-06-30,modele,Rolls-Royce
+2016,3,2016-09-30,modele,Rolls-Royce
+2016,4,2016-12-31,modele,Rolls-Royce
+2022,1,2022-03-31,unites_vendues,
+2022,2,2022-06-30,unites_vendues,
+2022,3,2022-09-30,unites_vendues,
+2022,4,2022-12-31,unites_vendues,
+2021,1,2021-03-31,unites_vendues,
+2021,2,2021-06-30,unites_vendues,
+2021,3,2021-09-30,unites_vendues,
+2021,4,2021-12-31,unites_vendues,
+2020,1,2020-03-31,unites_vendues,
+2020,2,2020-06-30,unites_vendues,
+2020,3,2020-09-30,unites_vendues,
+2020,4,2020-12-31,unites_vendues,
+2019,1,2019-03-31,unites_vendues,
+2019,2,2019-06-30,unites_vendues,
+2019,3,2019-09-30,unites_vendues,
+2019,4,2019-12-31,unites_vendues,
+2018,1,2018-03-31,unites_vendues,560 644
+2018,2,2018-06-30,unites_vendues,550 768
+2018,3,2018-09-30,unites_vendues,535 828
+2018,4,2018-12-31,unites_vendues,521 256
+2017,1,2017-03-31,unites_vendues,549 175
+2017,2,2017-06-30,unites_vendues,517 791
+2017,3,2017-09-30,unites_vendues,526 092
+2017,4,2017-12-31,unites_vendues,530 889
+2016,1,2016-03-31,unites_vendues,490 549
+2016,2,2016-06-30,unites_vendues,529 800
+2016,3,2016-09-30,unites_vendues,507 024
+2016,4,2016-12-31,unites_vendues,475 624
+2022,1,2022-03-31,unites_vendues,
+2022,2,2022-06-30,unites_vendues,
+2022,3,2022-09-30,unites_vendues,
+2022,4,2022-12-31,unites_vendues,
+2021,1,2021-03-31,unites_vendues,
+2021,2,2021-06-30,unites_vendues,
+2021,3,2021-09-30,unites_vendues,
+2021,4,2021-12-31,unites_vendues,
+2020,1,2020-03-31,unites_vendues,
+2020,2,2020-06-30,unites_vendues,
+2020,3,2020-09-30,unites_vendues,
+2020,4,2020-12-31,unites_vendues,
+2019,1,2019-03-31,unites_vendues,
+2019,2,2019-06-30,unites_vendues,
+2019,3,2019-09-30,unites_vendues,
+2019,4,2019-12-31,unites_vendues,
+2018,1,2018-03-31,unites_vendues,101 810
+2018,2,2018-06-30,unites_vendues,100 971
+2018,3,2018-09-30,unites_vendues,80 335
+2018,4,2018-12-31,unites_vendues,85 569
+2017,1,2017-03-31,unites_vendues,97 899
+2017,2,2017-06-30,unites_vendues,95 962
+2017,3,2017-09-30,unites_vendues,87 730
+2017,4,2017-12-31,unites_vendues,96 895
+2016,1,2016-03-31,unites_vendues,89 057
+2016,2,2016-06-30,unites_vendues,102 648
+2016,3,2016-09-30,unites_vendues,85 784
+2016,4,2016-12-31,unites_vendues,75 091
+2022,1,2022-03-31,unites_vendues,
+2022,2,2022-06-30,unites_vendues,
+2022,3,2022-09-30,unites_vendues,
+2022,4,2022-12-31,unites_vendues,
+2021,1,2021-03-31,unites_vendues,
+2021,2,2021-06-30,unites_vendues,
+2021,3,2021-09-30,unites_vendues,
+2021,4,2021-12-31,unites_vendues,
+2020,1,2020-03-31,unites_vendues,
+2020,2,2020-06-30,unites_vendues,
+2020,3,2020-09-30,unites_vendues,
+2020,4,2020-12-31,unites_vendues,
+2019,1,2019-03-31,unites_vendues,
+2019,2,2019-06-30,unites_vendues,
+2019,3,2019-09-30,unites_vendues,
+2019,4,2019-12-31,unites_vendues,
+2018,1,2018-03-31,unites_vendues,879
+2018,2,2018-06-30,unites_vendues,1 242
+2018,3,2018-09-30,unites_vendues,919
+2018,4,2018-12-31,unites_vendues,1 313
+2017,1,2017-03-31,unites_vendues,855
+2017,2,2017-06-30,unites_vendues,782
+2017,3,2017-09-30,unites_vendues,709
+2017,4,2017-12-31,unites_vendues,962
+2016,1,2016-03-31,unites_vendues,701
+2016,2,2016-06-30,unites_vendues,1 102
+2016,3,2016-09-30,unites_vendues,939
+2016,4,2016-12-31,unites_vendues,1 437
